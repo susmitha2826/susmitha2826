@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @susmitha
 - 👀 I’m interested in mind my business
-- 🌱 I’m currently learning backend programming.
+- 🌱 I’m  backend programmer with knowledge on NodeJs.
 - 💞️ I’m looking to collaborate on the projects for backend and fornew opputunities.
 - 📫 How to reach me gsusmitha26@gmail.com
 - 😄 Pronouns: susmitha
