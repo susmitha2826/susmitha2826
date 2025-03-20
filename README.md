@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @susmitha
-- 👀 I’m interested in mind my business
-- 🌱 I’m  backend programmer with knowledge on NodeJs.
-- 💞️ I’m looking to collaborate on the projects for backend and fornew opputunities.
-- 📫 How to reach me gsusmitha26@gmail.com
+- 👀 I’m jr software developer with hands on experience in mern stack, aws services
+- 💞️ I’m looking to collaborate on the projects, new opputunities.
+- 📫 How to reach me: **gsusmitha26@gmail.com**
 - 😄 Pronouns: susmitha
 - ⚡ Fun fact: life is fun boss
 <!---
